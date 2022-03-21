@@ -7,4 +7,4 @@ My passions include:
 
 - 👨‍🍳 cooking pythonic recipes
 - 💻 writing commands in a terminal window and acting like a hacker
-- 🧠 <- growing this
+- 🧠 ⬅ growing this
