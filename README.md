@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🙋🏻‍♂️
 
 <!--
 **tibipin/tibipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Tibi, I'm a developer / data scientist located in Bucharest. 
+You can read more about how amazingly average I am [here](http://tibipin.herokuapp.com/)
+
+My passions include:
+- 🍳 cooking pythonic recipes
+- 🛸 music
+- 💀 weird movies
+
+
+Cheerz 🍺
