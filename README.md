@@ -1,26 +1,10 @@
 ### Hi there 🙋🏻‍♂️
 
-<!--
-**tibipin/tibipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My name is Tibi, I'm a developer / data scientist located in Bucharest.  
+My name is __Tibi__ (that's short for _Tiberiu_) and I'm a `developer` / `data scientist` located in Bucharest.  
 You can read more about how amazingly average I am [here](http://tibipin.herokuapp.com/)
 
 My passions include:
-- 🍳 cooking pythonic recipes
-- 🛸 music
-- 💀 weird movies
 
-
-Cheerz 🍺
+- 👨‍🍳 cooking pythonic recipes
+- 💻 writing commands in a terminal window and acting like a hacker
+- 🧠 <- growing this
