@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Tibi, I'm a developer / data scientist located in Bucharest. 
+My name is Tibi, I'm a developer / data scientist located in Bucharest.  
 You can read more about how amazingly average I am [here](http://tibipin.herokuapp.com/)
 
 My passions include:
