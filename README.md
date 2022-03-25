@@ -8,3 +8,9 @@ My passions include:
 - 👨‍🍳 cooking pythonic recipes
 - 💻 writing commands in a terminal window and acting like a hacker
 - 🧠 ⬅ growing this
+
+Currently I'm struggling to learn:
+
+- docker
+- bash scripting
+- flask/django
