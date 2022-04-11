@@ -2,7 +2,7 @@
 
 My name is __Tibi__ (short for _Tiberiu_).  
 You can read more about how amazingly average I am [here](http://tibipin.me/).  
-I once dated a software engineer but she dumped me because _I couldn't commit_... 🥁
+I once dated a software engineer but she dumped me because _I wouldn't commit_... 🥁
 
 My passions include:
 
